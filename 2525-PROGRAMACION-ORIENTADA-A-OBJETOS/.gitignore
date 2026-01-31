@@ -5,3 +5,6 @@ PRACTICAS/.venv/*
 PRACTICAS/semana10/__pycache__
 /PRACTICAS/semana11/__pycache__
 PRACTICAS/semana11/__pycache__
+# Ignorar archivos compilados de Python (General)
+__pycache__/
+*.pyc
